@@ -13,5 +13,12 @@ Description:
     This utility accepts a timeout parameter to wait for the specified
     time period (in seconds) or until any key is pressed. It also
     accepts a parameter to ignore the key press.
+    
+# Clip
+
+Redirects output to clipboard
+
+e.g: dir > clip
+
 
 
